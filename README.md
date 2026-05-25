@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Subhash+Devulapalli+%F0%9F%91%8B;Full-Stack+.NET+Engineer+%7C+Dallas%2C+TX;5%2B+Years+%7C+ASP.NET+Core+%7C+React+%7C+Azure" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-devulapalli)
