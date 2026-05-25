@@ -22,14 +22,14 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Full-Stack .NET Engineer** with **5+ years** of experience designing backend systems, leading Agile teams, and owning delivery end to end. I work across the full stack — from architecting REST APIs and distributed caching in ASP.NET Core to building React UIs that actually hold up under load.
+I'm a **Full-Stack .NET Engineer** with **5+ years** of experience designing backend systems, leading Agile teams, and owning delivery end to end. I work across the full stack from architecting REST APIs and distributed caching in ASP.NET Core to building React UIs that actually hold up under load.
 
 Right now I'm at **MTM Health**, building HIPAA-compliant healthcare infrastructure. Before that I was at **Techigai** migrating ERP monoliths to .NET Core microservices on Azure, and at **UCF** doing research on API scalability and GraphQL migrations.
 
 - 🏥 Currently: Software Engineer I @ **MTM Health** (Jul 2025 – Present)
 - 🎓 MS Computer Science @ **University of Central Florida** (GPA: 3.9 / 4.0)
 - 📍 **Dallas, TX** — Open to Remote & Hybrid roles
-- 💬 Ask me about **.NET**, **ASP.NET Core**, **React**, **Azure**, **SQL Server**, **CI/CD**
+- 💬 Ask me about **.NET**, **ASP.NET Core**, **React**, **Azure/AWS**, **SQL Server**, **CI/CD**
 - 📧 Reach me: **subhash.devulapalli14@gmail.com**
 
 ---
@@ -182,5 +182,5 @@ I'm actively looking for my next opportunity — full-time engineering roles whe
 ---
 
 <div align="center">
-<sub>Built with ❤️ by Subhash Devulapalli · Dallas, TX</sub>
+<sub>Built by Subhash Devulapalli · Dallas, TX</sub>
 </div>
