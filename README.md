@@ -115,7 +115,7 @@ Right now I'm at **MTM Health**, building HIPAA-compliant healthcare infrastruct
 
 ---
 
-## 🐍 Contribution Snake
+'## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Right now I'm at **MTM Health**, building HIPAA-compliant healthcare infrastruct
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/SubhashDevulapalli/SubhashDevulapalli/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+</div>'
 
 ---
 
